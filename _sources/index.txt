@@ -9,4 +9,4 @@ This is an aggregator of github pages sites for my account.
 
    * `Old APE <https://rsnakamura.github.io/oldape/>`_
 
-
+   * `Pweave Utilities <https://rsnakamura.github.io/pweaveutilities/>`_
