@@ -11,4 +11,4 @@ This is an aggregator of github pages sites for my account.
 
    * `Pweave Utilities <https://rsnakamura.github.io/pweaveutilities/>`_
 
-   * `Django REST Framework (fork with restructured text documentation) <https://rsnakamura.github.io/django-rest-framework/>
+   * `Django REST Framework (fork with restructured text documentation) <https://rsnakamura.github.io/django-rest-framework/>`_
